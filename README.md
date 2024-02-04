@@ -26,19 +26,9 @@ The steps I took to complete this project are as follows:
    - Myopathic Gait Reference: https://www.youtube.com/watch?v=b5rIEx9SsCo 
    - Hemiplegic Gait Reference: https://www.youtube.com/watch?v=y160w4sAQNw
 
-## Getting Started
-
-Follow these steps to set up the project on your local machine:
-
 ### Prerequisites
 
 - Install Blender: [Blender Official Website](https://www.blender.org/download/)
-
-### Installation
-
-1. Clone the repository:
-
-2. Open the Blender project file (`Character_animation.blend`) in Blender.
 
 ## Features
 
